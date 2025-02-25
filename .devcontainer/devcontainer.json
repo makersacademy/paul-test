@@ -1,0 +1,3 @@
+{
+    "postStartCommand": "bash /scripts/reconfigure_prompt.sh"
+}
